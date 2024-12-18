@@ -1,6 +1,6 @@
 # Blackjack Simulator
 
-Welcome to the **Blackjack Simulator**, a console-based game developed in C that brings the classic card game to life. This project was created as a collaborative effort and was awarded the *People’s Choice Award* for Best in Class. Whether you're a seasoned player or a beginner, this simulator provides an engaging way to enjoy Blackjack while practicing your skills.
+Welcome to the **Blackjack Simulator**, a game developed in C that brings the classic card game to life. This project was created as a collaborative effort and was awarded the *People’s Choice Award* for Best in Class. Whether you're a seasoned player or a beginner, this simulator provides an engaging way to enjoy Blackjack while practicing your skills.
 
 ---
 
@@ -16,4 +16,4 @@ Welcome to the **Blackjack Simulator**, a console-based game developed in C that
 
 ## Acknowledgments
 
-This project was developed collaboratively and received the *People’s Choice Award* for its engaging design and gameplay mechanics. 
+This project was developed collaboratively and received the *People’s Choice Award* for its engaging design and gameplay mechanics. It also implements Ohio State's Proteous Simulator and corresponding libraries.
