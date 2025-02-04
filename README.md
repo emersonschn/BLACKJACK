@@ -16,4 +16,4 @@ Welcome to the **Blackjack Simulator**, a game developed in C that brings the cl
 
 ## Acknowledgments
 
-This project was developed collaboratively and received the *People’s Choice Award* for its engaging design and gameplay mechanics. It also implements Ohio State's Proteous Simulator and corresponding libraries.
+This project was developed collaboratively and received the *People’s Choice Award* for its engaging design and gameplay mechanics. It also utilizes Ohio State's Proteous Simulator and corresponding libraries.
